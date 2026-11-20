@@ -1,0 +1,16 @@
+{
+  "name": "Vice Radio",
+  "short_name": "Vice Radio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#100b22",
+  "theme_color": "#170d2b",
+  "icons": [
+    {
+      "src": "assets/vice-radio-cover.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
